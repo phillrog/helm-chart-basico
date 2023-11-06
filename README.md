@@ -19,6 +19,11 @@ Exemplo de uma Aplicação usando HelmChart
 
 Execute no terminal ```helm upgrade src --install  .\charts\ --namespace hello-worlds```
 
+# Referências
+
+* https://kubernetes.io/docs/home/
+* https://helm.sh/docs/
+
 # Resultado
 
 ![image](https://github.com/phillrog/helm-chart-basico/assets/8622005/a54fd4dd-ca8f-4375-a5b6-8e2a7b470f9d)
